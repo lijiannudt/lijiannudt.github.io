@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "李健"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Professor"
+  location         : "Changsha, P.R. China"
+  employer         : "NUDT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lijian@nudt.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=l5YhgIMAAAAJ&hl=zh-CN&oi=sra"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
